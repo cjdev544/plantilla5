@@ -86,6 +86,10 @@ p {
 
 
 /* Slider */
+.header {
+    margin-top: -10px;
+}
+
 .header .carousel img{
     min-height: 25rem;
     max-height: 45rem;
